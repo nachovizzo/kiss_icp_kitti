@@ -53,3 +53,4 @@ If you use this library for any academic work, please cite our original [paper](
 
 - https://github.com/PRBonn/kiss-icp/issues/79
 - https://github.com/PRBonn/kiss-icp/issues/67
+- https://github.com/PRBonn/kiss-icp/issues/166
